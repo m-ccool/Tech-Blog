@@ -1,5 +1,6 @@
 # Tech-Blog
 Model-View-Controller: Tech Blog
+Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm packag
 
 - [Installation](#installation)
 - [Usage](#usage)
