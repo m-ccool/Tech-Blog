@@ -26,9 +26,18 @@ Handlebars.js as the templating language, Sequelize as the ORM, and the express-
 * requires NPM and Node.js and aabove listed NPM packages
 
 To deploy app locally, please run (cmd) "npm install", "npm start run" to view the local dev build
+`npm init`
+
+`npm install mysql2`
+
+`npm install sequelize`
+
+`npm install dotenv`
 
 ## Usage
-To deploy "production" version of the app, create by running (cmd) "npm build", "npm run build"
+To deploy 
+`mysql -u root -p`
+Answer prompts
 
 ## License
 n/a
