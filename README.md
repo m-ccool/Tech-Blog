@@ -9,7 +9,6 @@ Handlebars.js as the templating language, Sequelize as the ORM, and the express-
 - [Author](#author)
 
 ## Deployed Application
-**[🖥️ Deployed Application 🖱️](https://mccool-tech-blog.herokuapp.com/)**
 
 
 ## Application Preview
